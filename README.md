@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamli-singh-yadav&show_icons=true&locale=en" alt="shamli-singh-yadav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamli-singh-yadav&" alt="shamli-singh-yadav" /></p>
+
