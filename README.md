@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **backend**
 
-- 💬 Ask me about **html,css,java,c,javascript**
+- 💬 Ask me about **html,css,java,c,javascript,python**
 
 - 📫 How to reach me **shamlisinghyadav@gmail.com**
 
