@@ -84,10 +84,3 @@
 </p>
 
 ---
-
-### 🌍 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/shamli-singh-yadav" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/></a>
-  <a href="https://x.com/shamli_singh" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40"/></a>
-  <a href="https://github.com/shamli-singh-yadav" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"/></a>
-</p>
