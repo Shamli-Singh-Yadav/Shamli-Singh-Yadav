@@ -8,8 +8,8 @@
 ---
 
 ### 💭Thoughts
-<p align="center">
-(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22Sometimes+I+fix+one+bug+and+create+three.+Balance+maintained.%22;%E2%80%9CLearning+never+ends+in+tech+%E2%80%94+you+just+change+the+error+messages.%E2%80%9D;%E2%80%9CThe+compiler+doesn%E2%80%99t+hate+me.+It+just+tests+my+emotional+strength.%E2%80%9D;%E2%80%9CEvery+new+project+starts+with+fear+%E2%80%94+and+ends+with+pride.%E2%80%9D;%E2%80%9CEvery+successful+build+hides+a+story+of+a+developer+losing+patience+at+2+AM.%E2%80%9D)](https://git.io/typing-svg)
+[<p align="center">
+(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22Sometimes+I+fix+one+bug+and+create+three.+Balance+maintained.%22;%E2%80%9CLearning+never+ends+in+tech+%E2%80%94+you+just+change+the+error+messages.%E2%80%9D;%E2%80%9CThe+compiler+doesn%E2%80%99t+hate+me.+It+just+tests+my+emotional+strength.%E2%80%9D;%E2%80%9CEvery+new+project+starts+with+fear+%E2%80%94+and+ends+with+pride.%E2%80%9D;%E2%80%9CEvery+successful+build+hides+a+story+of+a+developer+losing+patience+at+2+AM.%E2%80%9D)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?lines=%22Sometimes+I+fix+one+bug+and+create+three.+Balance+maintained.%22;%E2%80%9CLearning+never+ends+in+tech+%E2%80%94+you+just+change+the+error+messages.%E2%80%9D;%E2%80%9CThe+compiler+doesn%E2%80%99t+hate+me.+It+just+tests+my+emotional+strength.%E2%80%9D;%E2%80%9CEvery+new+project+starts+with+fear+%E2%80%94+and+ends+with+pride.%E2%80%9D;%E2%80%9CEvery+successful+build+hides+a+story+of+a+developer+losing+patience+at+2+AM.%E2%80%9D)
 
 
 
