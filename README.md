@@ -7,14 +7,11 @@
 
 ---
 
-### 💭 Developer Thoughts
+### 💭Thoughts
 <p align="center">
-  <em>“Sometimes I fix one bug and create three. Balance maintained.”</em><br/>
-  <em>“Learning never ends in tech — you just change the error messages.”</em><br/>
-  <em>“The compiler doesn’t hate me. It just tests my emotional strength.”</em><br/>
-  <em>“Every new project starts with fear — and ends with pride.”</em><br/>
-  <em>“Every successful build hides a story of a developer losing patience at 2 AM.”</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Sometimes+I+fix+one+bug+and+create+three.+Balance+maintained.;Learning+never+ends+in+tech+—+you+just+change+the+error+messages.;The+compiler+doesn’t+hate+me.+It+just+tests+my+emotional+strength.;Every+new+project+starts+with+fear+—+and+ends+with+pride.;Every+successful+build+hides+a+story+of+a+developer+losing+patience+at+2+AM." alt="Developer Thoughts Animation" />
 </p>
+
 
 ---
 
