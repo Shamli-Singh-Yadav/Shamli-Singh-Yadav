@@ -9,8 +9,9 @@
 
 ### 💭Thoughts
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Sometimes+I+fix+one+bug+and+create+three.+Balance+maintained.;Learning+never+ends+in+tech+—+you+just+change+the+error+messages.;The+compiler+doesn’t+hate+me.+It+just+tests+my+emotional+strength.;Every+new+project+starts+with+fear+—+and+ends+with+pride.;Every+successful+build+hides+a+story+of+a+developer+losing+patience+at+2+AM." alt="Developer Thoughts Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Sometimes+I+fix+one+bug+and+create+three.+Balance+maintained.;Learning+never+ends+in+tech+—+you+just+change+the+error+messages.;The+compiler+doesn't+hate+me,+it+just+tests+my+emotional+strength.;Every+new+project+starts+with+fear+—+and+ends+with+pride.;Every+successful+build+hides+a+story+of+a+developer+losing+patience+at+2+AM." alt="Developer Thoughts Animation" />
 </p>
+
 
 
 ---
