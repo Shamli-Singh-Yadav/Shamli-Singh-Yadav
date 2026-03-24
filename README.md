@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shamli-singh-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
----
 
 ### 👩‍💻 About Me   
 - 🌱 Exploring the **Backend world (Node.js, Express, MongoDB)**  
@@ -15,16 +14,16 @@
 
 ### 🚀 Featured Projects  
 
-#### 🎧 [TravelNest (Airbnb Clone)](https://github.com/Shamli-Singh-Yadav/travelnest)
+####  [TravelNest (Airbnb Clone)](https://github.com/Shamli-Singh-Yadav/travelnest)
 A full-stack web application enabling users to create, edit, and delete property listings. Implemented authentication & authorization with secure CRUD operations. Deployed on Render. 
 
-#### 🎧 [The Giver's Spot](https://github.com/Shamli-Singh-Yadav/The-Givers-Spot)  
+####  [The Giver's Spot](https://github.com/Shamli-Singh-Yadav/The-Givers-Spot)  
 A community-driven web application using Appwrite, enabling users to exchange items freely. Implemented authentication and data management features.  
 
-#### 🎧 [Weather Info Application](https://github.com/Shamli-Singh-Yadav/Weather_info)  
+####  [Weather Info Application](https://github.com/Shamli-Singh-Yadav/Weather_info)  
 A weather application using React and API integration to display real-time weather information for searched cities with error handling and dynamic data rendering.
 
-#### 🎧 [Simon Says Game](https://github.com/Shamli-Singh-Yadav/simon_say_game)  
+####  [Simon Says Game](https://github.com/Shamli-Singh-Yadav/simon_say_game)  
 Built an interactive Simon Says memory game using JavaScript, implementing game logic, event handling, and user interaction.
 
 #### 🎧 [Spotify Clone](https://github.com/Shamli-Singh-Yadav/spotify-clone)  
