@@ -1,43 +1,46 @@
 <h1 align="center">👋 Hey there! I'm <b>Shamli Singh Yadav</b></h1>
-<h3 align="center">✨ Frontend Developer | Creative Coder | Tech Explorer | Contributor at GSSOC'25, Hacktoberfest'25 & WOCS 🇮🇳</h3>
+<h3 align="center">✨ Frontend Developer| Contributor at GSSOC'25, Hacktoberfest'25 | WOCS 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shamli-singh-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
 ---
 
-### 💭Thoughts
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=800&lines=%22Sometimes+I+fix+one+bug+and+create+three.+Balance+maintained.%22;%E2%80%9CLearning+never+ends+in+tech+%E2%80%94+you+just+change+the+error+messages.%E2%80%9D;%E2%80%9CThe+compiler+doesn%E2%80%99t+hate+me.+It+just+tests+my+emotional+strength.%E2%80%9D;%E2%80%9CEvery+new+project+starts+with+fear+%E2%80%94+and+ends+with+pride.%E2%80%9D;%E2%80%9CEvery+successful+build+hides+a+story+of+a+developer+losing+patience+at+2+AM.%E2%80%9D" alt="Typing SVG" /></a>
-
-
----
-
-### 👩‍💻 About Me  
-- 🔭 Currently building **my personal Profile Page**  
+### 👩‍💻 About Me   
 - 🌱 Exploring the **Backend world (Node.js, Express, MongoDB)**  
 - 💬 Let’s talk about **HTML, CSS, JavaScript, Java, C, or Python**  
-- 📫 Reach me at: **[shamlisinghyadav@gmail.com](mailto:shamlisinghyadav@gmail.com)**  
-- 🎨 Fun fact: I love turning **ideas into pixel-perfect designs**  
-
+- 📫 Reach me at: **[shamlisinghyadav@gmail.com](mailto:shamlisinghyadav@gmail.com)**
+  
 ---
 
 ### 🚀 Featured Projects  
 
+#### 🎧 [TravelNest (Airbnb Clone)](https://github.com/Shamli-Singh-Yadav/travelnest)
+A full-stack web application enabling users to create, edit, and delete property listings. Implemented authentication & authorization with secure CRUD operations. Deployed on Render. 
+
+#### 🎧 [The Giver's Spot](https://github.com/Shamli-Singh-Yadav/The-Givers-Spot)  
+A community-driven web application using Appwrite, enabling users to exchange items freely. Implemented authentication and data management features.  
+
+#### 🎧 [Weather Info Application](https://github.com/Shamli-Singh-Yadav/Weather_info)  
+A weather application using React and API integration to display real-time weather information for searched cities with error handling and dynamic data rendering.
+
+#### 🎧 [Simon Says Game](https://github.com/Shamli-Singh-Yadav/simon_say_game)  
+Built an interactive Simon Says memory game using JavaScript, implementing game logic, event handling, and user interaction.
+
 #### 🎧 [Spotify Clone](https://github.com/Shamli-Singh-Yadav/spotify-clone)  
-🎵 A music streaming UI inspired by Spotify with responsive design and sleek animations.  
+A music streaming UI inspired by Spotify with responsive design and sleek animations.  
 
 #### 🍔 [Responsive Menu Bar](https://github.com/Shamli-Singh-Yadav/html-css-menu-bar)  
-📱 A modern, responsive navigation bar built using HTML and CSS.  
+A modern, responsive navigation bar built using HTML and CSS.  
 
 #### 🛍️ [Product Landing Page](https://github.com/Shamli-Singh-Yadav/Product-landing-page)  
-🧩 A clean and elegant landing page design for showcasing digital or physical products.  
+A clean and elegant landing page design for showcasing digital or physical products.  
 
 #### 🎬 [Video Editing Website - EditKaro.in](https://github.com/Shamli-Singh-Yadav/editkaro.in-a-video-editing-agency)  
-🎥 A stylish website for a video editing agency, designed to attract clients with interactive visuals.  
+A stylish website for a video editing agency, designed to attract clients with interactive visuals.  
 
 #### 🥗 [Interactive Recipe Website](https://github.com/Shamli-Singh-Yadav/Interactive-Recipe-Card-with-Animations)  
-🍳 A fun, animated recipe card web app — making cooking instructions look deliciously interactive!  
+A fun, animated recipe card web app — making cooking instructions look deliciously interactive!  
 
 ---
 
@@ -61,18 +64,17 @@
 
 ---
 
+### 💼 Holopin Badges  
+[![Holopin](https://holopin.me/shamlisinghyadav)](https://holopin.io/@shamlisinghyadav)
+
+---
+
 ### 🏆 GitHub Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shamli-singh-yadav&theme=onedark&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
 </p>
 
 ---
-
-### 💼 Holopin Badges  
-[![Holopin](https://holopin.me/shamlisinghyadav)](https://holopin.io/@shamlisinghyadav)
-
----
-
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shamli-singh-yadav&show_icons=true&theme=tokyonight" height="165"/>
